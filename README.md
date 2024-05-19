@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Doga Karadag</h1>
+<h1 align="center">Hi 👋, I'm Doğa! </h1>
 <h3 align="center">Software Engineering student at the University of Stuttgart</h3>
 
   <p align="center">
