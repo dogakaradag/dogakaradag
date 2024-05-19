@@ -1,31 +1,16 @@
 <h1 align="center">Hi 👋, I'm Doga Karadag</h1>
-<h3 align="center">Software Engineer at Turkish Aerospace Industries</h3>
+<h3 align="center">Software Engineering student at the University of Stuttgart</h3>
 
-<p align="center">
-  I'm currently focusing on enhancing image quality using AI with <strong>Super Resolution Generative Adversarial Networks (SRGAN)</strong>.
-  I'm deepening my understanding of computer vision technologies, including the <strong>Darknet Framework and OpenCV Library</strong>.
   You can find all my public projects here: <a href="https://github.com/dogakaradag?tab=repositories">Github Repositories</a>.
 </p>
 
 <p align="center">
-  📫 Reach out to me at: <a href="mailto:ayberk2574@gmail.com">ayberk2574@gmail.com</a>
+  📫 Reach out to me at: <a href="mailto:dogakaradagg@gmail.com">ayberk2574@gmail.com</a>
 </p>
 
-<p align="center">
-  💬 Ask me anything about <strong>Computer Vision, Generative Networks, and Cyber Security</strong>. I love discussing these topics!
-</p>
 
-<p align="center">
-  ⚡ Fun fact: There are two ways to write error-free programs; only the third one works.
-</p>
 
-<h3 align="center">🔗 Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/ayberk_saygi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayberk_saygi" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ayberk-saygı-0640811a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayberk-saygı-0640811a4" height="30" width="40" /></a>
-  <a href="https://instagram.com/ayberk_saygi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayberk_saygi" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UC0GwTXvSheFR7HVxHVwiZUg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="genç yazılımcı" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="center">🛠 Languages and Tools:</h3>
 <p align="center">
