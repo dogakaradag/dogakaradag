@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Doga Karadag</h1>
 <h3 align="center">Software Engineering student at the University of Stuttgart</h3>
 
-  You can find all my public projects here: <a href="https://github.com/dogakaradag?tab=repositories">Github Repositories</a>.
+  <p align="center">
+    You can find all my public projects here: <a href="https://github.com/dogakaradag?tab=repositories">Github Repositories</a>.
 </p>
 
 <p align="center">
