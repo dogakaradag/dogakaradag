@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📫 Reach out to me at: <a href="mailto:dogakaradagg@gmail.com">ayberk2574@gmail.com</a>
+  📫 Reach out to me at: <a href="mailto:dogakaradagg@gmail.com">dogakaradagg@gmail.com</a>
 </p>
 
 
